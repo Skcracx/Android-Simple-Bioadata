@@ -37,5 +37,4 @@ Aplikasi ini dikembangkan untuk tujuan pembelajaran dan bersifat open-source.
 
 ---
 
-**Dibuat oleh Skcracx** 🚀
 
