@@ -20,7 +20,7 @@
 
 1. Clone repository ini:
    ```sh
-   git clone https://github.com/Skcracx/Android-Simple-Bioadata.git
+   git clone https://github.com/Skcracx/Android-Simple-Biodata.git
    ```
 2. Buka proyek di **Android Studio**.
 3. Jalankan aplikasi menggunakan emulator atau perangkat fisik.
